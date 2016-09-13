@@ -1,6 +1,6 @@
 系统：ubuntu 14.04 LTS
 
-语言：Python 2.7.12
+语言：Python 2.7
 
 模型：logistics regression
 
