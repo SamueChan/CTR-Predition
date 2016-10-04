@@ -1,7 +1,6 @@
 # -*- conding:utf-8 -*-
 
 '''
-Author:Samuel Chan
 This file contain code to create some feature from the data set and get the global index of each feature.
 '''
 
