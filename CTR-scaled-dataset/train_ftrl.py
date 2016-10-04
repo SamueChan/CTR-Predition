@@ -1,7 +1,6 @@
 # -*- coding:utf-8 -*-
 
 '''
-Author:Samuel Chan
 This file contain code to train the model with logistic regression and FTRL.
 '''
 
